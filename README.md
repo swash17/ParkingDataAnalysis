@@ -1,4 +1,5 @@
 # Parking Data Analysis Software Tool
+Copyright 2016: Wei Sun, Scott S. Washburn
 
 Lead Developer:
  - Wei Sun, Graduate Research Assistant
