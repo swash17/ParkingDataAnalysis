@@ -24,3 +24,4 @@ Following are some instructions on how to run the software tool:
 3. Once GitHub extension is installed, log in GitHub account in Visual Studio
 4. In GitHub, click "Clone or download", in the pop-up form, choose "Open in Visual Studio",
 and the software will be run in Visual Studio
+5. A NuGet package was referenced in the software tool, please check the Get Started documentation if the NuGet package was not referenced correctly.
