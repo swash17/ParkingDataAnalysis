@@ -22,5 +22,5 @@ Following are some instructions on how to run the software tool:
 2. Install Github extension for Visual Studio:
    https://visualstudio.github.com/
 3. Once Github extension is installed, log in Github account in Visual Studio
-4. In Github, click "Open in Visual Studio" as shown in the screen capture below,
+4. In Github, click "Clone or download", in the pop-up form, choose "Open in Visual Studio",
 and the software will be run in Visual Studio
