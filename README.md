@@ -17,11 +17,11 @@ Development Assistance Provided By:
    Web: swash.essie.ufl.edu
 
 Following are some instructions on how to run the software tool:
-1. The software is built on Visual Studio, please download and install Visual Studio:
+1. The software is written in C#/.NET and built in Visual Studio. Visual Studio can be downloaded from:
    https://visualstudio.microsoft.com/
-2. Install GitHub extension for Visual Studio:
+2. Install the GitHub extension for Visual Studio:
    https://visualstudio.github.com/
-3. Once GitHub extension is installed, log in GitHub account in Visual Studio
+3. Once the GitHub extension is installed, log in to your GitHub account in Visual Studio.
 4. In GitHub, click "Clone or download", in the pop-up form, choose "Open in Visual Studio",
-and the software will be run in Visual Studio
-5. A NuGet package was referenced in the software tool, please check the Get Started documentation if the NuGet package was not referenced correctly.
+and the software will be run in Visual Studio.
+5. A NuGet package is referenced in the software tool--please check the Get Started documentation if the NuGet package was not referenced correctly.
